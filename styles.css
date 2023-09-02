@@ -1,0 +1,32 @@
+.main{
+    background-color: #CFF5E7;
+}
+body{
+    margin: 0;
+    background-color: #7F669D;
+}
+nav{
+    color:  #8294C4;
+}
+h1{
+    color:black;
+    margin-top: 0px;
+}
+
+.top{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.one{
+    position: absolute;
+    right:30px
+
+}
